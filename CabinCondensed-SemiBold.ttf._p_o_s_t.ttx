@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="uni00AD"/>
+      <psName name="periodcentered"/>
+      <psName name="uni0237"/>
+      <psName name="uni2070"/>
+      <psName name="uni2074"/>
+      <psName name="uni2075"/>
+      <psName name="uni2076"/>
+      <psName name="uni2077"/>
+      <psName name="uni2078"/>
+      <psName name="uni2079"/>
+      <psName name="uni2080"/>
+      <psName name="uni2081"/>
+      <psName name="uni2082"/>
+      <psName name="uni2083"/>
+      <psName name="uni2084"/>
+      <psName name="uni2085"/>
+      <psName name="uni2086"/>
+      <psName name="uni2087"/>
+      <psName name="uni2088"/>
+      <psName name="uni2089"/>
+      <psName name="Euro"/>
+      <psName name="A.sc"/>
+      <psName name="B.sc"/>
+      <psName name="C.sc"/>
+      <psName name="D.sc"/>
+      <psName name="E.sc"/>
+      <psName name="F.sc"/>
+      <psName name="G.sc"/>
+      <psName name="H.sc"/>
+      <psName name="I.sc"/>
+      <psName name="J.sc"/>
+      <psName name="K.sc"/>
+      <psName name="L.sc"/>
+      <psName name="M.sc"/>
+      <psName name="N.sc"/>
+      <psName name="O.sc"/>
+      <psName name="P.sc"/>
+      <psName name="Q.sc"/>
+      <psName name="R.sc"/>
+      <psName name="S.sc"/>
+      <psName name="T.sc"/>
+      <psName name="U.sc"/>
+      <psName name="V.sc"/>
+      <psName name="W.sc"/>
+      <psName name="X.sc"/>
+      <psName name="Y.sc"/>
+      <psName name="Z.sc"/>
+      <psName name="OE.sc"/>
+      <psName name="AE.sc"/>
+    </extraNames>
+  </post>
+
+</ttFont>
