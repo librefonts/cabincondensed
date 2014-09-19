@@ -1,0 +1,150 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Cabin Condensed
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com. All rights reserved.
+    License: Copyright (c) 2010, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.006
+    Vendor: Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 269
+    Character count: 242
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Cabin Condensed
+    Sub family: Medium
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com. All rights reserved.
+    License: Copyright (c) 2010, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.006
+    Vendor: Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 269
+    Character count: 242
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Cabin Condensed
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com. All rights reserved.
+    License: Copyright (c) 2010, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.006
+    Vendor: Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 269
+    Character count: 242
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Cabin Condensed
+    Sub family: SemiBold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com. All rights reserved.
+    License: Copyright (c) 2010, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.006
+    Vendor: Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 269
+    Character count: 242
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
